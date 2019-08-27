@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563875644 source:c:\badhon\min window substring\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
